@@ -18,6 +18,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  { 
 name = 'Angular';
-miNombre="alejandro";
+miNombre="Hello World!!";
 
  }
